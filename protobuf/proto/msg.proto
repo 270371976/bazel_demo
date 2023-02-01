@@ -1,0 +1,9 @@
+syntax = "proto2"; 
+
+package proto_demo;
+message Content
+{
+  required int32  id = 1;
+  optional int32  opt = 3;
+  repeated string str = 2;
+}

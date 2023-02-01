@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "linux-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/usr/local/src/vcpkg/installed/x64-linux/include/**",
+        "/home/zyn/.cache/bazel/_bazel_zyn/339290bbb369f69fea1e404886c1ddfb/execroot/__main__/bazel-out/k8-fastbuild/bin/protobuf"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "c11",
+      "cppStandard": "gnu++14",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}
